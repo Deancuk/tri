@@ -1,0 +1,111 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d042fa273964e24a9109e23f4e313cc:540e3601e1b82192c76c7411ad9c8c8e
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", 1 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=014e7cf40d9e490a812964f4aa72449e:01b8caafb230eb2a07cc965d54ef4441
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", 1 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=801d9e39d41a49418615f7cee4b6e031:84b9bec014f0509ee2a4296e5877cf40
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd
+
+
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", 2 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e1df327c661472f96319dd7e98bf5bd:36263f85c3c25a131f47cee90924e1f3
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd
+
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", 2 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71be6f968ab54a8bb847b58bbc7c628e:3dd907fffdbffd7ec01b4025ad97ec6a
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd
+
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", 3 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1de6210c1b064b928c5bb003da7023e5:d1eb59b178c89539d7caf1022968107e
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd
+
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", 3 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b19ea29fdd4c96825531f96a504df1:a6ec613e0eadfb923ff816e4c8c68a4a
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", 4 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bc811aaa10a4c3198aa3b6679198382:609b0c987d1657f1adc7aa53ae733200
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports4/hd2-dashdrm02/11Sports4.mpd
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", 4 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c7dea2fa563424789ea200675e56817:5bf4b84797df5a8ac149c5bb69d639c4
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports4/hd2-dashdrm02/11Sports4.mpd
+
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", 4 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a662726cb8804451961d356d65ba8450:47f362b448bd8f63d2402d428d352aed
+https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/11Sports4/hd2-dashdrm02/11Sports4.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-id="espn - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", espn de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="tyc - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", tyc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
+
+
+#EXTINF:-1 tvg-id="tudn - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/JcdKRXb/sctv.png" group-title="EVENT NASIONAL", tudn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
+https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
